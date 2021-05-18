@@ -89,9 +89,11 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
+
 		</plugins>
-		<finalName>AtoZFreight</finalName>
+		<finalName>AtoZFreightInstall</finalName>
 	</build>
+
 	<repositories>
 		<repository>
 			<id>spring-milestones</id>
